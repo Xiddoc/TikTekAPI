@@ -1,4 +1,18 @@
 # TikTekAPI
-The TikTek Private API, written in Python.
 
-I won't be updating this repo anymore, it's more of a small project I wanted to try since I was bored. However, feel free to submit a bug report or feature request and I'll see if I'm still up for the task.
+📚 The TikTek website API,  
+🐍 engineered in Python.
+
+## Usage
+
+📝 Make sure to run `python -m pip install -r requirements.txt` in order to download the necessary module(s).
+
+💻 After that, you should be set. There is a short example in `main.py`, but the actual API logic and class is in `tiktek.py`.
+
+🤓 Have fun & happy studying! (Well, as fun as it can get)
+
+🐛 If there are any bugs, please create an Issue! I'll try to update/fix ASAP.
+
+## License
+
+MIT License. More information in the `LICENSE` file.
